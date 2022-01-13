@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /forms/
+
+User-agent: Googlebot
+Disallow: /assets/
+Disallow: /forms/
